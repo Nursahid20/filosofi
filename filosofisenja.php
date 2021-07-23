@@ -1,0 +1,19 @@
+<?php 
+	include ('header2.php');
+?>
+</section>
+	<section class="s-content">
+		<div class="container">
+			<h1 style="font-size: 60px;">FILOSOFI SENJA</h1>
+			<img src="images/senja.jpg" style="width: 50%;">
+			</br>
+			<h4>Apa yang anda pikirkan ketika mendengar kata ‘senja’ ? Senja merupakan manifestasi dari kehidupan manusia, senja yang menutupi cahaya merupakan perwujudan dari kenyataan atas sebuah mimpi. Manusia tidak selamanya hidup di dalam mimpi. Ada sebuah kenyataan yang harus dihadapi. Manusia tidak perlu berpikir terlalu sinis pada kehidupan, cukup berpikir rasional. Tanpa sebuah impian, manusia tidak akan berkembang dan menjadi dirinya sendiri. Senja selalu memberikan pseona keindahan pada setiap pandangan.Senja yang indah kadang membuat kita merasa terpesona dan sayang jika di lewatkan hanya dengan melihat-lihat. Sebagian orang mengartikan senja seperti pandangan indah yang hanya bisa dilihat dari tempat-tempat tertentu. Senja waktu terindah untuk sebagian orang, Bagi orang-orang yang mengerti akan makna indahnya kehidupan, Makna ketulusan yang tidak bisa dlihat hanya dengan mata orang biasa, tapi harus merasakannya dari hati. Ribuan orang bisa mengatakan langit senja hari ini begitu indah. Tapi pernahkah mereka benar-benar memahami arti dari keindahan itu ? Warna Merah, Orange, Putih dan Kuning merupakan warna yang paling dominan ketika senja mulai mucul. Tapi tahukah kita tentang arti warna-warna tersebut ? Merah : jika hati sedang diliputi rasa bahagia maka warna merah ini mewakili perasaan yang menggebu-gebu,merah juga menggambarkan sebuah kehangatan. Orange : Dia adalah simbol yang mewakili perasaan friendly, jika perasaan itu tumbuh maka suatu hubungan akan terjalin lebih akrab layaknya jalinan seorang sahabat. Putih : Semua orang paham betul dengan karakter warna yang satu ini, selain membawa rasa nyaman, putih juga memberikan kesan sesuatu yang tulus, jika di kaitkan dengan perasaan, berarti perasaan ini tumbuh dari rasa ketulusan, kemurnian, kesucian atau bahkan sebuah pengabdian. Kuning: Biasanya ini diartikan dengan sebuah “kemenangan”, kuning juga di artikan sebagai lambang ‘kebanggaan’ atau sebuah “kemewahan”, perasaan yang diliputi warna ini berarti sebuah perasaan yang sangat luar biasa, bersamanya kita akan merasa ‘berbangga’ diri, merasakan sebuah kemenangan merebut hati, merasa mewah memilikinya. Dalam kehidupan yang sangat luas dan kompleks, ada bagian yang teratur dan tidak berubah dari waktu ke waktu. Alam dan tanda-tandanya mengajarkan manusia secara apa adanya. Senja memberikan pelajaran untuk berlaku tidak serakah dan santun. Kehadirannya yang tidak lama tidak pernah membuatnya mengeluh, kehadiran malam tidak pernah membuatnya merasa kehilangan. Kehadiran siang tidak pernah membuatnya merasa lelah untuk menunggu sore. Mungkin hal itu yang membuat senja menjadi romantis, hingga selalu menjadi kata populer dalam syair. Jika hal ini bisa kita pahami dan belajar untuk itu, tidak akan ada kata tentang mencaci, mengeluh, bahkan perang pun akan surut. Tidak akan ada penindasan, tidak ada lagi rasa menguasai dan dikuasai diantara manusia. Senja, se-ejaan untaian mutiara yang membisukan kehendak untuk menghindarimu, tapi kakiku tak mampu melangkah tanpa similar rupa cahayamu. Senja, kau teramat bermakna dalam kehidupan hingga kau menguasai titik teristimewa dalam sumber cahaya di bola mataku. Aku membisu pun tak mampu untuk menyembunyikan bahwa aku sangat merindukanmu. Namun aku cukup kuat untuk merelakan kamu untuk arti yang lebih bermakna. Karena aku juga bernasib sama dengan statusmu, hanya pijaran semangat kehidupan. Teori mengajarkan kita tidak untuk selalu kontradiktori namun keserasian lebih unggul di atas cinta para makhluk.</h4>
+
+			<a href="index.php"><img srcset="images/panah-kiri.jpg" style="margin-top:80px;width: 100px"></a>
+
+
+		</div>
+	</section>
+<?php 
+	include ('footer.php');
+?>
